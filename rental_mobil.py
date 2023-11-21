@@ -1,3 +1,5 @@
+'Tugas Capstone Purwadhika - Rental Mobil'
+
 class Mobil:
     def __init__(self, id_mobil, merk, model, tahun, biaya_sewa):
         self.id_mobil = id_mobil
